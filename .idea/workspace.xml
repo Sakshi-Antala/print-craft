@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f2be5e5-9345-4ea9-8e2c-f5342e4cefde" name="Default" comment="" />
+    <ignored path="vistaprint.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vistaprint" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="displaywishlist.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/displaywishlist.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchitem.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/searchitem.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <folding>
+                <marker date="1622656002730" expanded="true" signature="5301:5343" ph="..." />
+                <marker date="1622656002730" expanded="true" signature="5344:5720" ph="..." />
+                <marker date="1622656002730" expanded="true" signature="5441:5695" ph="..." />
+                <marker date="1622656002730" expanded="true" signature="5990:6025" ph="..." />
+                <marker date="1622656002730" expanded="true" signature="6026:6402" ph="..." />
+                <marker date="1622656002730" expanded="true" signature="6123:6377" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productdetail.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/productdetail.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shoppingcart.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/shoppingcart.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1826">
+              <caret line="83" column="85" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/agency/product.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3366">
+              <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkout.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/checkout.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="171" column="11" selection-start-line="171" selection-start-column="11" selection-end-line="171" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3344">
+              <caret line="174" column="5" selection-start-line="167" selection-start-column="4" selection-end-line="174" selection-end-column="5" />
+              <folding>
+                <element signature="e#27911#29899#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wishlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/wishlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/shop.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1914">
+              <caret line="87" column="22" selection-start-line="21" selection-start-column="16" selection-end-line="87" selection-end-column="22" />
+              <folding>
+                <marker date="1621762714192" expanded="true" signature="8740:8801" ph="..." />
+                <marker date="1621762714192" expanded="true" signature="8802:9178" ph="..." />
+                <marker date="1621762714192" expanded="true" signature="8899:9153" ph="..." />
+                <marker date="1621762714192" expanded="true" signature="9439:9493" ph="..." />
+                <marker date="1621762714192" expanded="true" signature="9494:9870" ph="..." />
+                <marker date="1621762714192" expanded="true" signature="9591:9845" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/admin/agencylist.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/deliveryboy.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/joinasagency.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/shop.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/updateproduct.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/admin.php" />
+        <option value="$PROJECT_DIR$/public/Assets/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/invoice.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/orderdetails.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/updatecategory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/updatesubcategory.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/color.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/size.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/paperstock.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/resetpassword.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/forgetpass.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/agency.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/user.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/forgetpassword.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/orderdetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/product.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/resetlink.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/forgetpassword.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/resetlink.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/forgetpassword.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/orderdetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/deliveryboy/resetlink.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/searchitem.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/productdetail.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/shoppingcart.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency/product.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/checkout.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deliveryboy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agency" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vistaprint" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fashion" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2be5e5-9345-4ea9-8e2c-f5342e4cefde" name="Default" comment="" />
+      <created>1613819049094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613819049094</updated>
+      <workItem from="1613819054017" duration="9031000" />
+      <workItem from="1613903119947" duration="11053000" />
+      <workItem from="1613916996354" duration="301000" />
+      <workItem from="1614079033194" duration="205000" />
+      <workItem from="1614157106687" duration="4323000" />
+      <workItem from="1614331586517" duration="3580000" />
+      <workItem from="1614340372109" duration="2407000" />
+      <workItem from="1614343941619" duration="223000" />
+      <workItem from="1614404093099" duration="3539000" />
+      <workItem from="1614414609064" duration="1608000" />
+      <workItem from="1614588293095" duration="606000" />
+      <workItem from="1614680035325" duration="7080000" />
+      <workItem from="1614760713271" duration="837000" />
+      <workItem from="1614842467278" duration="851000" />
+      <workItem from="1614858705418" duration="1764000" />
+      <workItem from="1614860528464" duration="741000" />
+      <workItem from="1614863001625" duration="1800000" />
+      <workItem from="1614864862884" duration="2017000" />
+      <workItem from="1614866938017" duration="1017000" />
+      <workItem from="1614868823975" duration="124000" />
+      <workItem from="1614870015572" duration="514000" />
+      <workItem from="1614935382931" duration="1757000" />
+      <workItem from="1615025795077" duration="1938000" />
+      <workItem from="1615027920515" duration="1780000" />
+      <workItem from="1615029818438" duration="1821000" />
+      <workItem from="1615031676136" duration="1797000" />
+      <workItem from="1615113631117" duration="1859000" />
+      <workItem from="1615115524597" duration="1795000" />
+      <workItem from="1615117351805" duration="2144000" />
+      <workItem from="1615119872909" duration="1854000" />
+      <workItem from="1615121761016" duration="1786000" />
+      <workItem from="1615123582136" duration="130000" />
+      <workItem from="1615128352445" duration="842000" />
+      <workItem from="1615195184796" duration="1475000" />
+      <workItem from="1615219828048" duration="1869000" />
+      <workItem from="1615221728506" duration="2182000" />
+      <workItem from="1615223962397" duration="1814000" />
+      <workItem from="1615225813177" duration="1368000" />
+      <workItem from="1615264679251" duration="1734000" />
+      <workItem from="1615266442003" duration="1841000" />
+      <workItem from="1615268311360" duration="2497000" />
+      <workItem from="1615270854542" duration="1077000" />
+      <workItem from="1615274005731" duration="1833000" />
+      <workItem from="1615275877869" duration="244000" />
+      <workItem from="1615278652170" duration="613000" />
+      <workItem from="1615280530163" duration="1863000" />
+      <workItem from="1615282431489" duration="1821000" />
+      <workItem from="1615284280582" duration="455000" />
+      <workItem from="1615286288263" duration="1822000" />
+      <workItem from="1615288137991" duration="1805000" />
+      <workItem from="1615289971719" duration="2062000" />
+      <workItem from="1615292062020" duration="337000" />
+      <workItem from="1615295784474" duration="1528000" />
+      <workItem from="1615299270606" duration="146000" />
+      <workItem from="1615362923797" duration="855000" />
+      <workItem from="1615368950770" duration="1254000" />
+      <workItem from="1615372653720" duration="1806000" />
+      <workItem from="1615374491980" duration="906000" />
+      <workItem from="1615445674942" duration="1003000" />
+      <workItem from="1615454508168" duration="1875000" />
+      <workItem from="1615456434539" duration="933000" />
+      <workItem from="1615464399792" duration="1819000" />
+      <workItem from="1615466247025" duration="2028000" />
+      <workItem from="1615468337602" duration="503000" />
+      <workItem from="1615539583917" duration="1756000" />
+      <workItem from="1615541367530" duration="200000" />
+      <workItem from="1615719475872" duration="1757000" />
+      <workItem from="1615721265854" duration="676000" />
+      <workItem from="1615722351721" duration="13000" />
+      <workItem from="1615722407990" duration="1933000" />
+      <workItem from="1615724384614" duration="524000" />
+      <workItem from="1615726476916" duration="2002000" />
+      <workItem from="1615728874171" duration="585000" />
+      <workItem from="1615731763910" duration="1369000" />
+      <workItem from="1616217334785" duration="2016000" />
+      <workItem from="1616219388788" duration="1948000" />
+      <workItem from="1616221385843" duration="459000" />
+      <workItem from="1616243922228" duration="1921000" />
+      <workItem from="1616245895674" duration="1852000" />
+      <workItem from="1616319398660" duration="684000" />
+      <workItem from="1616321253526" duration="694000" />
+      <workItem from="1616407352736" duration="352000" />
+      <workItem from="1616414786306" duration="1820000" />
+      <workItem from="1616416640173" duration="2012000" />
+      <workItem from="1616418673941" duration="1676000" />
+      <workItem from="1616420607215" duration="1088000" />
+      <workItem from="1616477445231" duration="1044000" />
+      <workItem from="1616479235563" duration="1604000" />
+      <workItem from="1616483220528" duration="153000" />
+      <workItem from="1616497266771" duration="1746000" />
+      <workItem from="1616511099479" duration="1803000" />
+      <workItem from="1616512989328" duration="1354000" />
+      <workItem from="1616514855092" duration="1844000" />
+      <workItem from="1616516721818" duration="1826000" />
+      <workItem from="1616518574599" duration="742000" />
+      <workItem from="1616565075009" duration="110000" />
+      <workItem from="1616573755233" duration="1625000" />
+      <workItem from="1616577746625" duration="1842000" />
+      <workItem from="1616579621381" duration="739000" />
+      <workItem from="1616585679276" duration="1755000" />
+      <workItem from="1616587462492" duration="1807000" />
+      <workItem from="1616589293793" duration="1619000" />
+      <workItem from="1616591130255" duration="129000" />
+      <workItem from="1616598837455" duration="1783000" />
+      <workItem from="1616600647481" duration="1634000" />
+      <workItem from="1616653196875" duration="1788000" />
+      <workItem from="1616655026361" duration="270000" />
+      <workItem from="1616664334264" duration="1763000" />
+      <workItem from="1616666138902" duration="923000" />
+      <workItem from="1616685859481" duration="747000" />
+      <workItem from="1616750681204" duration="2029000" />
+      <workItem from="1616752740288" duration="765000" />
+      <workItem from="1616758826318" duration="1826000" />
+      <workItem from="1616760678342" duration="1519000" />
+      <workItem from="1616763087940" duration="2134000" />
+      <workItem from="1616765297064" duration="1896000" />
+      <workItem from="1616767216788" duration="458000" />
+      <workItem from="1616769353577" duration="1531000" />
+      <workItem from="1616773122545" duration="202000" />
+      <workItem from="1616837469089" duration="106000" />
+      <workItem from="1616848246613" duration="1879000" />
+      <workItem from="1616850153401" duration="1826000" />
+      <workItem from="1616852000730" duration="2002000" />
+      <workItem from="1616854027909" duration="1777000" />
+      <workItem from="1616856100372" duration="641000" />
+      <workItem from="1616860092112" duration="1438000" />
+      <workItem from="1616861984617" duration="1802000" />
+      <workItem from="1616863859661" duration="801000" />
+      <workItem from="1616928504615" duration="1759000" />
+      <workItem from="1616930290138" duration="1864000" />
+      <workItem from="1616932179464" duration="376000" />
+      <workItem from="1617091932661" duration="984000" />
+      <workItem from="1617100384002" duration="611000" />
+      <workItem from="1617106265517" duration="1944000" />
+      <workItem from="1617108241529" duration="2261000" />
+      <workItem from="1617110556226" duration="1846000" />
+      <workItem from="1617112428986" duration="1384000" />
+      <workItem from="1617114821234" duration="618000" />
+      <workItem from="1617116667083" duration="1840000" />
+      <workItem from="1617118589096" duration="1794000" />
+      <workItem from="1617120407046" duration="1841000" />
+      <workItem from="1617122283010" duration="2062000" />
+      <workItem from="1617124372427" duration="1612000" />
+      <workItem from="1617168779822" duration="1932000" />
+      <workItem from="1617170739939" duration="1447000" />
+      <workItem from="1617172595135" duration="1502000" />
+      <workItem from="1617176262754" duration="2134000" />
+      <workItem from="1617188044501" duration="1785000" />
+      <workItem from="1617189858108" duration="1585000" />
+      <workItem from="1617194341397" duration="1822000" />
+      <workItem from="1617196202918" duration="919000" />
+      <workItem from="1617265843988" duration="855000" />
+      <workItem from="1617267636329" duration="873000" />
+      <workItem from="1617269445753" duration="1420000" />
+      <workItem from="1617279977622" duration="513000" />
+      <workItem from="1617282494626" duration="13000" />
+      <workItem from="1617343538766" duration="1776000" />
+      <workItem from="1617345341964" duration="1964000" />
+      <workItem from="1617355623783" duration="1893000" />
+      <workItem from="1617357624873" duration="649000" />
+      <workItem from="1617360168665" duration="1835000" />
+      <workItem from="1617362046123" duration="1864000" />
+      <workItem from="1617363940119" duration="1808000" />
+      <workItem from="1617365786390" duration="1845000" />
+      <workItem from="1617367655507" duration="1787000" />
+      <workItem from="1617369472328" duration="1046000" />
+      <workItem from="1617376827485" duration="1766000" />
+      <workItem from="1617378625780" duration="1841000" />
+      <workItem from="1617380495617" duration="795000" />
+      <workItem from="1617443195132" duration="1205000" />
+      <workItem from="1617450508225" duration="1892000" />
+      <workItem from="1617452426178" duration="1833000" />
+      <workItem from="1617454285115" duration="227000" />
+      <workItem from="1617457782562" duration="1000000" />
+      <workItem from="1617462382666" duration="1799000" />
+      <workItem from="1617464207768" duration="1625000" />
+      <workItem from="1617466493260" duration="760000" />
+      <workItem from="1617522848347" duration="1782000" />
+      <workItem from="1617524659649" duration="1884000" />
+      <workItem from="1617526568568" duration="1840000" />
+      <workItem from="1617528437585" duration="608000" />
+      <workItem from="1617531066555" duration="727000" />
+      <workItem from="1617544975820" duration="1788000" />
+      <workItem from="1617548694118" duration="775000" />
+      <workItem from="1617708157801" duration="1773000" />
+      <workItem from="1617711858244" duration="1901000" />
+      <workItem from="1617713806395" duration="1843000" />
+      <workItem from="1617715884423" duration="1332000" />
+      <workItem from="1617719066913" duration="863000" />
+      <workItem from="1617720985169" duration="1792000" />
+      <workItem from="1617722802310" duration="1793000" />
+      <workItem from="1617724626249" duration="306000" />
+      <workItem from="1617808142088" duration="1869000" />
+      <workItem from="1617810040691" duration="1810000" />
+      <workItem from="1617811877338" duration="1842000" />
+      <workItem from="1617813741946" duration="1832000" />
+      <workItem from="1617815597946" duration="1148000" />
+      <workItem from="1617863169666" duration="1612000" />
+      <workItem from="1617866642552" duration="1926000" />
+      <workItem from="1617868594510" duration="1917000" />
+      <workItem from="1617870538119" duration="1851000" />
+      <workItem from="1617872416435" duration="1821000" />
+      <workItem from="1617874263136" duration="1124000" />
+      <workItem from="1617876093083" duration="2067000" />
+      <workItem from="1617878248950" duration="1260000" />
+      <workItem from="1617894495805" duration="1811000" />
+      <workItem from="1617896341733" duration="1805000" />
+      <workItem from="1617898197437" duration="1798000" />
+      <workItem from="1617900025460" duration="1950000" />
+      <workItem from="1617902003239" duration="1458000" />
+      <workItem from="1617947801609" duration="972000" />
+      <workItem from="1617960525667" duration="1751000" />
+      <workItem from="1617962310470" duration="648000" />
+      <workItem from="1617980900381" duration="1778000" />
+      <workItem from="1617982716980" duration="1875000" />
+      <workItem from="1617984616635" duration="2180000" />
+      <workItem from="1617986822530" duration="1178000" />
+      <workItem from="1618036906310" duration="727000" />
+      <workItem from="1618038723966" duration="1280000" />
+      <workItem from="1618040675673" duration="1765000" />
+      <workItem from="1618042503455" duration="202000" />
+      <workItem from="1618042759581" duration="43000" />
+      <workItem from="1618061351396" duration="1217000" />
+      <workItem from="1618068158998" duration="1908000" />
+      <workItem from="1618070132867" duration="1848000" />
+      <workItem from="1618072008142" duration="1374000" />
+      <workItem from="1618215371462" duration="319000" />
+      <workItem from="1618222411399" duration="1920000" />
+      <workItem from="1618224382859" duration="1791000" />
+      <workItem from="1618226203708" duration="1813000" />
+      <workItem from="1618238246553" duration="1777000" />
+      <workItem from="1618240064576" duration="1796000" />
+      <workItem from="1618241887605" duration="1817000" />
+      <workItem from="1618243762169" duration="2215000" />
+      <workItem from="1618246003583" duration="837000" />
+      <workItem from="1618303685245" duration="1848000" />
+      <workItem from="1618305757782" duration="1919000" />
+      <workItem from="1618307710172" duration="1833000" />
+      <workItem from="1618326714260" duration="1787000" />
+      <workItem from="1618328527019" duration="1807000" />
+      <workItem from="1618330378591" duration="539000" />
+      <workItem from="1618380399590" duration="1969000" />
+      <workItem from="1618382399052" duration="142000" />
+      <workItem from="1618392973289" duration="215000" />
+      <workItem from="1618411798582" duration="1808000" />
+      <workItem from="1618413633369" duration="2139000" />
+      <workItem from="1618415797602" duration="1806000" />
+      <workItem from="1618417632163" duration="1795000" />
+      <workItem from="1618419460554" duration="1877000" />
+      <workItem from="1618421375000" duration="1847000" />
+      <workItem from="1618423246546" duration="114000" />
+      <workItem from="1618469065252" duration="1692000" />
+      <workItem from="1618471769941" duration="1845000" />
+      <workItem from="1618473643858" duration="1750000" />
+      <workItem from="1618491319963" duration="1766000" />
+      <workItem from="1618493114971" duration="1427000" />
+      <workItem from="1618495077528" duration="339000" />
+      <workItem from="1618547626351" duration="1547000" />
+      <workItem from="1618549478467" duration="2042000" />
+      <workItem from="1618551706858" duration="1989000" />
+      <workItem from="1618553729845" duration="772000" />
+      <workItem from="1618561348761" duration="1165000" />
+      <workItem from="1618566540508" duration="1994000" />
+      <workItem from="1618568566558" duration="1925000" />
+      <workItem from="1618570524017" duration="2007000" />
+      <workItem from="1618572619143" duration="1857000" />
+      <workItem from="1618574518259" duration="365000" />
+      <workItem from="1618577739174" duration="1924000" />
+      <workItem from="1618579711357" duration="1893000" />
+      <workItem from="1618581627783" duration="924000" />
+      <workItem from="1618583625721" duration="167000" />
+      <workItem from="1618586349537" duration="1805000" />
+      <workItem from="1618588180435" duration="1851000" />
+      <workItem from="1618590084868" duration="1827000" />
+      <workItem from="1618635276935" duration="1837000" />
+      <workItem from="1618637426439" duration="1892000" />
+      <workItem from="1618639358734" duration="1819000" />
+      <workItem from="1618641301147" duration="1971000" />
+      <workItem from="1618644672954" duration="1687000" />
+      <workItem from="1618720151814" duration="1844000" />
+      <workItem from="1618722028202" duration="1859000" />
+      <workItem from="1618723930715" duration="2075000" />
+      <workItem from="1618726037804" duration="1838000" />
+      <workItem from="1618727930042" duration="1780000" />
+      <workItem from="1618737834139" duration="662000" />
+      <workItem from="1618752798516" duration="838000" />
+      <workItem from="1618811244315" duration="1388000" />
+      <workItem from="1618813045897" duration="1057000" />
+      <workItem from="1618814859801" duration="1125000" />
+      <workItem from="1618816771166" duration="1801000" />
+      <workItem from="1618818597283" duration="1974000" />
+      <workItem from="1618820600475" duration="2027000" />
+      <workItem from="1618822656441" duration="1809000" />
+      <workItem from="1618824492588" duration="1797000" />
+      <workItem from="1618826316244" duration="1897000" />
+      <workItem from="1618828246239" duration="339000" />
+      <workItem from="1618838140697" duration="273000" />
+      <workItem from="1618839317784" duration="1040000" />
+      <workItem from="1618842065385" duration="870000" />
+      <workItem from="1618844160613" duration="1793000" />
+      <workItem from="1618845982746" duration="1916000" />
+      <workItem from="1618847925888" duration="1731000" />
+      <workItem from="1618896803414" duration="1761000" />
+      <workItem from="1618898588125" duration="1651000" />
+      <workItem from="1618900698694" duration="224000" />
+      <workItem from="1618905563917" duration="225000" />
+      <workItem from="1618932567988" duration="1789000" />
+      <workItem from="1618934385280" duration="1307000" />
+      <workItem from="1618936243361" duration="1269000" />
+      <workItem from="1618982742087" duration="2137000" />
+      <workItem from="1618984938143" duration="1813000" />
+      <workItem from="1618986778692" duration="1832000" />
+      <workItem from="1618988635147" duration="1232000" />
+      <workItem from="1618991724493" duration="2161000" />
+      <workItem from="1618993909137" duration="1822000" />
+      <workItem from="1618995757271" duration="1849000" />
+      <workItem from="1618997635038" duration="1787000" />
+      <workItem from="1618999446867" duration="1870000" />
+      <workItem from="1619001346691" duration="1150000" />
+      <workItem from="1619010755306" duration="1798000" />
+      <workItem from="1619012596170" duration="919000" />
+      <workItem from="1619014441755" duration="942000" />
+      <workItem from="1619016701512" duration="1876000" />
+      <workItem from="1619018608404" duration="1789000" />
+      <workItem from="1619020443884" duration="1820000" />
+      <workItem from="1619022289437" duration="1211000" />
+      <workItem from="1619073308402" duration="1765000" />
+      <workItem from="1619075099877" duration="1561000" />
+      <workItem from="1619078289783" duration="1871000" />
+      <workItem from="1619080193977" duration="1922000" />
+      <workItem from="1619082143389" duration="1884000" />
+      <workItem from="1619084055180" duration="1856000" />
+      <workItem from="1619085938145" duration="640000" />
+      <workItem from="1619105784211" duration="153000" />
+      <workItem from="1619169575978" duration="2177000" />
+      <workItem from="1619172059904" duration="1398000" />
+      <workItem from="1619173654995" duration="1749000" />
+      <workItem from="1619190592674" duration="1778000" />
+      <workItem from="1619192407497" duration="1805000" />
+      <workItem from="1619194238801" duration="1769000" />
+      <workItem from="1619196071401" duration="829000" />
+      <workItem from="1619250440723" duration="745000" />
+      <workItem from="1619252245183" duration="615000" />
+      <workItem from="1619264584981" duration="1511000" />
+      <workItem from="1619277496050" duration="1814000" />
+      <workItem from="1619279346814" duration="1838000" />
+      <workItem from="1619281220915" duration="1833000" />
+      <workItem from="1619283079482" duration="1800000" />
+      <workItem from="1619330652412" duration="1671000" />
+      <workItem from="1619333087081" duration="1785000" />
+      <workItem from="1619334913643" duration="1168000" />
+      <workItem from="1619336756470" duration="1801000" />
+      <workItem from="1619338586394" duration="1976000" />
+      <workItem from="1619340596555" duration="1792000" />
+      <workItem from="1619342432268" duration="1849000" />
+      <workItem from="1619350698438" duration="1745000" />
+      <workItem from="1619352551426" duration="1585000" />
+      <workItem from="1619418391209" duration="1418000" />
+      <workItem from="1619420948525" duration="1778000" />
+      <workItem from="1619454156133" duration="1913000" />
+      <workItem from="1619456106698" duration="2087000" />
+      <workItem from="1619458265277" duration="1951000" />
+      <workItem from="1619499969201" duration="1776000" />
+      <workItem from="1619501931421" duration="1797000" />
+      <workItem from="1619505326423" duration="1921000" />
+      <workItem from="1619507608023" duration="2030000" />
+      <workItem from="1619509670229" duration="1598000" />
+      <workItem from="1619529697343" duration="1657000" />
+      <workItem from="1619535769985" duration="1880000" />
+      <workItem from="1619537681480" duration="1997000" />
+      <workItem from="1619540310845" duration="1671000" />
+      <workItem from="1619584468978" duration="1636000" />
+      <workItem from="1619586432820" duration="1815000" />
+      <workItem from="1619588371346" duration="1179000" />
+      <workItem from="1619597955463" duration="1752000" />
+      <workItem from="1619599737973" duration="2216000" />
+      <workItem from="1619601991686" duration="1930000" />
+      <workItem from="1619603948269" duration="1915000" />
+      <workItem from="1619606012514" duration="1795000" />
+      <workItem from="1619607839792" duration="1583000" />
+      <workItem from="1619609675571" duration="1841000" />
+      <workItem from="1619615306002" duration="1409000" />
+      <workItem from="1619617517754" duration="1703000" />
+      <workItem from="1619622359188" duration="1981000" />
+      <workItem from="1619624372117" duration="1810000" />
+      <workItem from="1619626213815" duration="1843000" />
+      <workItem from="1619628083077" duration="185000" />
+      <workItem from="1619628440293" duration="1274000" />
+      <workItem from="1619676483052" duration="1772000" />
+      <workItem from="1619678290075" duration="1785000" />
+      <workItem from="1619680104921" duration="1134000" />
+      <workItem from="1619681947770" duration="1832000" />
+      <workItem from="1619683853474" duration="1808000" />
+      <workItem from="1619685690154" duration="1843000" />
+      <workItem from="1619687561203" duration="2115000" />
+      <workItem from="1619689710062" duration="1868000" />
+      <workItem from="1619691617921" duration="299000" />
+      <workItem from="1619694935038" duration="1523000" />
+      <workItem from="1619702143551" duration="1849000" />
+      <workItem from="1619704301447" duration="1249000" />
+      <workItem from="1619709125881" duration="2243000" />
+      <workItem from="1619711406874" duration="817000" />
+      <workItem from="1619755399159" duration="1786000" />
+      <workItem from="1619757250509" duration="1999000" />
+      <workItem from="1619759277490" duration="1867000" />
+      <workItem from="1619761175067" duration="1539000" />
+      <workItem from="1619763123541" duration="1215000" />
+      <workItem from="1619794391440" duration="1807000" />
+      <workItem from="1619796275003" duration="1901000" />
+      <workItem from="1619798207733" duration="1614000" />
+      <workItem from="1619800039136" duration="1879000" />
+      <workItem from="1619801946299" duration="2021000" />
+      <workItem from="1619803996476" duration="1811000" />
+      <workItem from="1619805833984" duration="1866000" />
+      <workItem from="1619847721587" duration="1808000" />
+      <workItem from="1619849559207" duration="1825000" />
+      <workItem from="1619851413581" duration="1653000" />
+      <workItem from="1619862004522" duration="1835000" />
+      <workItem from="1619863880888" duration="1790000" />
+      <workItem from="1619865721507" duration="1742000" />
+      <workItem from="1619867555709" duration="627000" />
+      <workItem from="1619883190084" duration="2020000" />
+      <workItem from="1619885239899" duration="378000" />
+      <workItem from="1619945465971" duration="14000" />
+      <workItem from="1620023626004" duration="2201000" />
+      <workItem from="1620025885079" duration="1592000" />
+      <workItem from="1620028104247" duration="1858000" />
+      <workItem from="1620029990845" duration="1795000" />
+      <workItem from="1620031812149" duration="1781000" />
+      <workItem from="1620035678020" duration="850000" />
+      <workItem from="1620037585684" duration="1953000" />
+      <workItem from="1620039760865" duration="1932000" />
+      <workItem from="1620041726438" duration="1037000" />
+      <workItem from="1620047150533" duration="1747000" />
+      <workItem from="1620048978740" duration="1044000" />
+      <workItem from="1620050971271" duration="1065000" />
+      <workItem from="1620053440168" duration="2499000" />
+      <workItem from="1620055967339" duration="1892000" />
+      <workItem from="1620057899273" duration="2334000" />
+      <workItem from="1620060260444" duration="154000" />
+      <workItem from="1620104247706" duration="1722000" />
+      <workItem from="1620106183702" duration="1939000" />
+      <workItem from="1620108148977" duration="1827000" />
+      <workItem from="1620110008056" duration="1842000" />
+      <workItem from="1620112097218" duration="1444000" />
+      <workItem from="1620114250729" duration="1880000" />
+      <workItem from="1620116155990" duration="1817000" />
+      <workItem from="1620118004154" duration="1203000" />
+      <workItem from="1620119820080" duration="1847000" />
+      <workItem from="1620122121091" duration="907000" />
+      <workItem from="1620124653132" duration="955000" />
+      <workItem from="1620210632298" duration="25000" />
+      <workItem from="1620211728404" duration="3336000" />
+      <workItem from="1620273130396" duration="586000" />
+      <workItem from="1620292018844" duration="359000" />
+      <workItem from="1620319659737" duration="1813000" />
+      <workItem from="1620402053078" duration="163000" />
+      <workItem from="1620925791423" duration="105000" />
+      <workItem from="1621445160901" duration="634000" />
+      <workItem from="1621525789476" duration="1785000" />
+      <workItem from="1621528046664" duration="688000" />
+      <workItem from="1621612698084" duration="1272000" />
+      <workItem from="1621614525374" duration="923000" />
+      <workItem from="1621752693574" duration="861000" />
+      <workItem from="1621754550985" duration="673000" />
+      <workItem from="1621758470921" duration="1631000" />
+      <workItem from="1621760355465" duration="1837000" />
+      <workItem from="1621762222599" duration="1555000" />
+      <workItem from="1621765528726" duration="2281000" />
+      <workItem from="1621771272349" duration="842000" />
+      <workItem from="1621871949925" duration="1382000" />
+      <workItem from="1621956856364" duration="804000" />
+      <workItem from="1621960434753" duration="1168000" />
+      <workItem from="1622044131947" duration="662000" />
+      <workItem from="1622131004053" duration="631000" />
+      <workItem from="1622215900095" duration="1764000" />
+      <workItem from="1622217740746" duration="1852000" />
+      <workItem from="1622219637209" duration="2096000" />
+      <workItem from="1622222858624" duration="1889000" />
+      <workItem from="1622225181511" duration="640000" />
+      <workItem from="1622300321115" duration="644000" />
+      <workItem from="1622302738309" duration="1532000" />
+      <workItem from="1622305469004" duration="741000" />
+      <workItem from="1622307629669" duration="658000" />
+      <workItem from="1622357270276" duration="735000" />
+      <workItem from="1622364841766" duration="735000" />
+      <workItem from="1622380731991" duration="1375000" />
+      <workItem from="1622382947849" duration="173000" />
+      <workItem from="1622478204546" duration="1974000" />
+      <workItem from="1622480235205" duration="1787000" />
+      <workItem from="1622482073630" duration="2045000" />
+      <workItem from="1622484157698" duration="645000" />
+      <workItem from="1622545234860" duration="444000" />
+      <workItem from="1622546103193" duration="346000" />
+      <workItem from="1622561877260" duration="1364000" />
+      <workItem from="1622567164195" duration="322000" />
+      <workItem from="1622653668695" duration="1813000" />
+      <workItem from="1622655511176" duration="569000" />
+      <workItem from="1622735165294" duration="634000" />
+      <workItem from="1622737345328" duration="824000" />
+      <workItem from="1622738435000" duration="119000" />
+      <workItem from="1622906966667" duration="886000" />
+      <workItem from="1622963182970" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="751527000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="0" width="1932" height="1048" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2949408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29331824" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29331824" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23175965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatecategory.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatecolor.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatecoupon.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatedeliveryboy.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatemembership.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updatepaperstock.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/updateproduct.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/userlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/changepassword.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/forgetpassword.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="159" column="67" selection-start-line="159" selection-start-column="62" selection-end-line="159" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/orderdetail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/orderlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/paperstock.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/resetlink.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/size.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/updatecolor.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/changepassword.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/foremail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/forgetpassword.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/orderdetail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/orderlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/deliveryboy/resetlink.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="69" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-673">
+          <caret line="78" column="43" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/mail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/membership.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/categoryfilterdata.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3432">
+          <caret line="156" column="25" selection-start-line="156" selection-start-column="20" selection-end-line="156" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/categoryshop.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="140" column="25" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/pagination.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/registration.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/searchitem.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <marker date="1622656002730" expanded="true" signature="5301:5343" ph="..." />
+            <marker date="1622656002730" expanded="true" signature="5344:5720" ph="..." />
+            <marker date="1622656002730" expanded="true" signature="5441:5695" ph="..." />
+            <marker date="1622656002730" expanded="true" signature="5990:6025" ph="..." />
+            <marker date="1622656002730" expanded="true" signature="6026:6402" ph="..." />
+            <marker date="1622656002730" expanded="true" signature="6123:6377" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/productdetail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency/product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3366">
+          <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/wishlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/displaywishlist.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/shop.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="87" column="22" selection-start-line="21" selection-start-column="16" selection-end-line="87" selection-end-column="22" />
+          <folding>
+            <marker date="1621762714192" expanded="true" signature="8740:8801" ph="..." />
+            <marker date="1621762714192" expanded="true" signature="8802:9178" ph="..." />
+            <marker date="1621762714192" expanded="true" signature="8899:9153" ph="..." />
+            <marker date="1621762714192" expanded="true" signature="9439:9493" ph="..." />
+            <marker date="1621762714192" expanded="true" signature="9494:9870" ph="..." />
+            <marker date="1621762714192" expanded="true" signature="9591:9845" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/shoppingcart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="85" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="174" column="5" selection-start-line="167" selection-start-column="4" selection-end-line="174" selection-end-column="5" />
+          <folding>
+            <element signature="e#27911#29899#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/checkout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="171" column="11" selection-start-line="171" selection-start-column="11" selection-end-line="171" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
